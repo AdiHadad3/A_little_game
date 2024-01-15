@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "matala_4_game/1.0.0": {
+        "runtime": {
+          "matala_4_game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matala_4_game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
