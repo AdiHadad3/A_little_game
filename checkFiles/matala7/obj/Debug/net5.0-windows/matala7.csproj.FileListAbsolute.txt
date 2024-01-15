@@ -1,0 +1,36 @@
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.exe
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.deps.json
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.runtimeconfig.json
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.runtimeconfig.dev.json
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.dll
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\ref\matala7.dll
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.pdb
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.AssemblyReference.cache
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.Form1.resources
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.GenerateResource.cache
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.AssemblyInfoInputs.cache
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.AssemblyInfo.cs
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.CoreCompileInputs.cache
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.dll
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\ref\matala7.dll
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.pdb
+C:\Users\adiha\Documents\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.genruntimeconfig.cache
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.exe
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.deps.json
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.runtimeconfig.json
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.runtimeconfig.dev.json
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.dll
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\ref\matala7.dll
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\bin\Debug\net5.0-windows\matala7.pdb
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.AssemblyReference.cache
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.Form1.resources
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.GenerateResource.cache
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.AssemblyInfoInputs.cache
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.AssemblyInfo.cs
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.csproj.CoreCompileInputs.cache
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.dll
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\ref\matala7.dll
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.pdb
+C:\Users\adiha\Documents\תואר ראשון - הנדסת תעשייה וניהול\שנה ב'\סמסטר ב'\הנדסת תכנה C#\matala7\matala7\obj\Debug\net5.0-windows\matala7.genruntimeconfig.cache
